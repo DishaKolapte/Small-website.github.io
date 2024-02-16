@@ -1,0 +1,100 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Helvetica", sans-serif;
+  background: #ffffff;
+  color: #000000;
+}
+
+a:link {
+  color: #000;
+}
+a:visited {
+  color: #000000;
+}
+a:hover {
+  background-color: #3cf;
+  color: #03f;
+}
+a:active {
+  color: #f3f;
+}
+.logo {
+  font-size: 36px;
+}
+#navlist li {
+  display: inline;
+  padding-right: 20px;
+}
+.box {
+  margin: 10px;
+  padding: 10px;
+  background-color: #f5f5dc;
+  border-width: 1px;
+  border-color: #ffffff;
+  border-style: solid;
+  clear: both;
+}
+.nav {
+  margin: 10px;
+  padding: 10px;
+  background-color: #6c9363;
+  border-width: 1px;
+  border-color: #ffffff;
+  border-style: solid;
+}
+.left {
+  width: 20%;
+  height: fit-content;
+  margin: 10px;
+  padding: 10px;
+  background-color: #f5f5dc81;
+  border-width: 1px;
+  border-color: #ffffff;
+  border-style: solid;
+  float: left;
+}
+.centre {
+  width: 51%;
+  margin: 10px;
+  padding: 10px;
+  background-color: #f5f5dc81;
+  border-width: 1px;
+  border-color: #ffffff;
+  border-style: solid;
+  float: left;
+}
+.right {
+  width: 20%;
+  margin: 10px;
+  padding: 10px;
+  background-color: #f5f5dc81;
+  border-width: 1px;
+  border-color: #ffffff;
+  border-style: solid;
+  float: right;
+}
+
+.lower-nav {
+  margin: 10px;
+  padding: 10px;
+  background-color: #6c9363;
+  border-width: 1px;
+  border-color: #ffffff;
+  border-style: solid;
+  clear: both;
+}
+.legal {
+  margin: 10px;
+  padding: 10px;
+  background-color: #f5f5dc;
+  border-width: 1px;
+  border-color: rgb(255, 255, 255);
+  border-style: solid;
+  float: none;
+  clear: both;
+}
+.deadnav {
+  color: #fff;
+  background-color: #3cf;
+}
